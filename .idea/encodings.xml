@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Element.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Element.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MendeleevTable.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Molecule.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Molecule.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="windows-1251" />
+  </component>
+</project>
